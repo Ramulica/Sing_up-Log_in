@@ -43,8 +43,8 @@ Tits program offers you the possibility to sign up, which stores in a CSV file a
 ---
 ### Home address/Postal code
 
--Postal code must contain just digits
--Postal code must contain 6 characters
+- Postal code must contain just digits
+- Postal code must contain 6 characters
 ---
 
 ## **Robot verification**
