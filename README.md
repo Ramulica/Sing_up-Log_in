@@ -14,7 +14,7 @@ Tits program offers you the possibility to sign up, which stores in a CSV file a
 - Name cannot contain these symbols: !"#$%&'()*+,-./:;<=>?@[\]^_`{|}~
 * Name cannot contain digits
 ---
-### e-mail
+### E-mail
 
 - e-mail prefix can contain just letters (a-z), numbers, underscores, periods, points and dashes.
 - Any underscore, period, or dash in an e-mail prefix must be followed by one or more letters or numbers.
@@ -47,7 +47,7 @@ Tits program offers you the possibility to sign up, which stores in a CSV file a
 -Postal code must contain 6 characters
 ---
 
-## **Robot verification **
+## **Robot verification**
 
 After singing up you will have to pass a robot verification. Four emojis with text will be selected at random, you need to write the text from the emojis to pass.
 
